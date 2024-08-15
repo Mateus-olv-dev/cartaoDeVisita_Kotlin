@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cartao de Visita</string>
+    <string name="full_name">Mateus Oliveira</string>
+    <string name="title">Desenvolvedor Front-end</string>
+    <string name="tell">(98) 98101-4980</string>
+    <string name="email">mateusolv.dev@gmail.com</string>
+</resources>
